@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 Hello!
-</br>Hope you are safe.
+<br> Hope you are safe.
